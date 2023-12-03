@@ -7,7 +7,7 @@ accounts:
   message: "Welcome To Sagar Bank related to Prod API"
   contactDetails:
     name: "Sagar Kumar Saud-Product Owner"
-    email: "sagarsaud@gmail.com"
+    email: "{cipher}f50707f7d3c2026de00fe5585363d2e9fdb0366765722b432c497b4f208a08b918ba5c08fa4e1b34c9d82744c2d36757"
   onCallSupport:
     -9843641872
     -9813545255

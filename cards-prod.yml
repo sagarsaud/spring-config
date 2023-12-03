@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome To Sagar Bank related to Prod API"
+  contactDetails:
+    name: "Sagar Kumar Saud-Product Owner"
+    email: "sagarsaud@gmail.com"
+  onCallSupport:
+    -9843641872
+    -9813545255

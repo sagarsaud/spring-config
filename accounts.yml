@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome To Sagar Bank"
+  contactDetails:
+    name: "Sagar Kumar Saud"
+    email: "sagarsaud@gmail.com"
+  onCallSupport:
+    -9843641872
+    -9813545255

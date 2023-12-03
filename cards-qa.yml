@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome To Sagar Bank related to QA API"
+  contactDetails:
+    name: "Sagar Kumar Saud-QA Lead"
+    email: "sagarsaud@gmail.com"
+  onCallSupport:
+    -9843641872
+    -9813545255

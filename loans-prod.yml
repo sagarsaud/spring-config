@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome To Sagar Bank related to Prod API"
+  message: "Welcome To Sagar Bank related to PROD API"
   contactDetails:
     name: "Sagar Kumar Saud-Product Owner"
     email: "sagarsaud@gmail.com"

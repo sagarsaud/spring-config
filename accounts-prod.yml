@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome To Sagar Saud Bank related to webhook API"
+  message: "Welcome To Sagar Saud Bank related to webhook PROD API"
   contactDetails:
     name: "Sagar Kumar Saud-Product Owner"
     email: "{cipher}f50707f7d3c2026de00fe5585363d2e9fdb0366765722b432c497b4f208a08b918ba5c08fa4e1b34c9d82744c2d36757"

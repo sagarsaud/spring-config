@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome To Sagar Bank"
+  message: "Welcome To Sagar Kumar Bank"
   contactDetails:
     name: "Sagar Kumar Saud"
     email: "sagarsaud@gmail.com"
